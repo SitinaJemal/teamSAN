@@ -3,8 +3,8 @@
 <META http-equiv=Content-Type content="text/html">
 </HEAD>
 <BODY>
-<h3>Session ID = <%=session.getId()%></h3>
-<h3>Creation Time = <%=session.getCreationTime()%></h3>
+<h3>This is  backend cource project</h3>
+<h3>we are group of 3 people. we tried to do the project using apache tomcat</h3>
 
 
 <H2>Let us start hacking server side </H2>
